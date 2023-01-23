@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Habits é um app criado para ajudar a rastrear ps hábitos realizados em um determinado dia.
 
-- [Acesse o projeto finalizado, online](fabiennefelix.github.io/nlw-setup/)
+- [Acesse o projeto finalizado, online](https://fabiennefelix.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
